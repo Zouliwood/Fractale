@@ -1,7 +1,5 @@
 # Informations générales
 Projet fractales 2021 - 2022
-* Benakli Rabha William 21960601
-* Andrawos Saad David 21955132
 
 # Compilation du projet
  Depuis le repertoire `/src` de notre projet lancer la commande: `javac Main.java`.
